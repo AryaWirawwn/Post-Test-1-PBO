@@ -232,32 +232,42 @@ Ketika pertama kali menjalankan kode maka akan muncul menu utama yang berisi Cre
 
 ### Menu Create
 ![{CFA24213-8D1B-4A8E-BF8E-9A94ACA55298}](https://github.com/user-attachments/assets/8a3783b6-5846-4255-93a4-6ce1595cfffa)
+
 Ketika memasukkan angka 1 di menu utama akan muncul menu membuat data pesawat. Jika ID pesawat tidak ada di ArrayList maka akan muncul pesan untuk memasukkan nama pesawat dan kecepatan pesawat.
 
 ![{DAA7C803-2922-45DF-A7A6-FD7FB585FA8A}](https://github.com/user-attachments/assets/780d2d6b-4167-4109-a802-66441e3308bc)
+
 Jika ID pesawat sudah di data sebelumnya maka akan muncul pesan ID tersebut sudah ada. User harus memasukkan ID yang tidak ada di data.
 
 ### Menu Read
 ![{AE0E7512-DC97-45D1-918D-E1198DEC417E}](https://github.com/user-attachments/assets/4ac589d1-e38e-4e33-b2e5-56d9e8111731)
+
 Ketika memasukkan angka 2 di menu utama maka akan muncul daftar data pesawat.
 
 ### Menu Update
 ![{3AA6B3B8-B8CC-4FBC-B30D-FFA62FD3CAD0}](https://github.com/user-attachments/assets/f1571082-aaec-4a00-91f8-eca27734c83d)
+
 ![{824CC740-B6D6-4168-909A-6C68F254A5BC}](https://github.com/user-attachments/assets/151eaf8f-e1de-4f20-b999-393b5859cc52)
+
 Ketika memasukkan angka 3 di menu utama maka akan muncul daftar data pesawat dan menu untuk memasukkan ID pesawat yang ingin diubah. Jika berhasil diubah maka akan muncul pesan data pesawat berhasil diubah.
 
 ![{68C17899-49A3-4703-BFD6-2C65807263E7}](https://github.com/user-attachments/assets/566dffa9-cea5-412b-b104-57a5c0417cf6)
+
 Jika ID pesawat tidak ada, maka akan muncul pesan pesawat tidak ditemukan.
 
 ### Menu Delete
 ![{51A84AF9-5414-40C3-84FD-6B1ADCE6949C}](https://github.com/user-attachments/assets/9bdf60c3-e9c3-4868-ac8c-ab331698eb5e)
+
 ![{C58300FB-EE3B-4D0D-B8BE-9F194775D710}](https://github.com/user-attachments/assets/75e41e34-e77d-4cf5-ad11-07feab1f02bd)
+
 Ketika memasukkan angka 4 di menu utama maka akan muncul daftar pesawat dan menu untuk memasukkan ID pesawat yang ingin dihapus. Jika berhasil dihapus maka akan muncul pesan data pesawat berhasil dihapus.
 
 ![{71F82621-24C3-4F78-8705-0F42BF5260EA}](https://github.com/user-attachments/assets/3b020b8a-233a-49f4-9068-82b0322ba28c)
+
 Jika ID pesawat tidak ada, maka akan muncul pesan pesawat tidak ditemukan.
 
 ### Exit
 ![{1CC8FEEB-8541-4405-94FA-CABFB177035E}](https://github.com/user-attachments/assets/7e062d94-a076-4710-90e9-b5c790ca7ae9)
+
 Masukkan angka 5 pada menu utama untuk keluar dari program.
 
