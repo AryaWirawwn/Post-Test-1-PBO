@@ -227,6 +227,7 @@ public class Pesawat {
 ## Output Program
 ### Menu Utama
 ![{8806B86F-1647-4807-8918-506A53F01C67}](https://github.com/user-attachments/assets/6b831e7e-3991-444f-9193-c03e0887f1c0)
+
 Ketika pertama kali menjalankan kode maka akan muncul menu utama yang berisi Create, Read, Update, Delete, dan Exit.
 
 ### Menu Create
