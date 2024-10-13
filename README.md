@@ -256,9 +256,9 @@ Ketika memasukkan angka 3 di menu utama maka akan muncul daftar data pesawat dan
 Jika ID pesawat tidak ada, maka akan muncul pesan pesawat tidak ditemukan.
 
 ### Menu Delete
-![{51A84AF9-5414-40C3-84FD-6B1ADCE6949C}](https://github.com/user-attachments/assets/9bdf60c3-e9c3-4868-ac8c-ab331698eb5e)
+![{049A364A-50B0-479D-86BF-26BDE917E097}](https://github.com/user-attachments/assets/024c3bc1-b982-451a-bb72-24ad9ff0c851)
 
-![{C58300FB-EE3B-4D0D-B8BE-9F194775D710}](https://github.com/user-attachments/assets/75e41e34-e77d-4cf5-ad11-07feab1f02bd)
+![{61DD46EC-822E-46F7-A712-CF5C3A86A028}](https://github.com/user-attachments/assets/e8fa6661-7ee2-4b3c-aa17-0a6adf3b6557)
 
 Ketika memasukkan angka 4 di menu utama maka akan muncul daftar pesawat dan menu untuk memasukkan ID pesawat yang ingin dihapus. Jika berhasil dihapus maka akan muncul pesan data pesawat berhasil dihapus.
 
